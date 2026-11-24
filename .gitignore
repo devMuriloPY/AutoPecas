@@ -1,0 +1,19 @@
+# Acesso ao banco desta máquina (tem senha): nunca versionar
+config.properties
+
+# Gerados pelo NetBeans/Ant
+/build/
+/dist/
+/nbproject/private/
+*.class
+
+# Cópias de segurança locais
+/backup_telas_netbeans/
+*.bak
+
+# Driver antigo, que o projeto não usa mais
+/lib/mysql-connector-java-5.1.23-bin.jar
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
